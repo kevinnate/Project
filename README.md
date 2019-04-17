@@ -4,7 +4,7 @@
 
 
 
-- **airbnb-recruiting-new-user-bookings/Airbnb新用户基本属性分析**
+- **Airbnb-recruiting-new-user-bookings/Airbnb新用户基本属性分析**
 > 背景：[来自kaggle的数据集](https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings)  
 > 目的：按照Airbnb提供的2010-2014注册数据集分析新用户属性  
 > [**进入**](https://github.com/kevinnate/Project/tree/master/Airbnb%20New%20User%20Bookings)  
