@@ -20,4 +20,4 @@
 - **Consumption behavior/基于购买记录的销售行为分析**
 >背景：[来自CDnow公布的数据集](http://www.brucehardie.com/notes/026/)  
 >目的：对18个月的销售情况进行分析，提出改善建议  
->[**进入***](https://github.com/kevinnate/Project/blob/master/customer/Consumption%20behavior.ipynb)
+>[**进入***](https://github.com/kevinnate/Project/tree/master/customer)
