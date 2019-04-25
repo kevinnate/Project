@@ -12,7 +12,7 @@
 - **Credit_default_risk_prediction/信贷风险预测**
 > 背景：[来自kaggle的数据集](https://www.kaggle.com/c/home-credit-default-risk)  
 > 目的：按照客户贷款信息预测是否有违约风险（二分类）  
-> [**进入**](https://github.com/kevinnate/Project/blob/master/Credit_default_risk_prediction/Home_Credit_V1.ipynb)  
+> [**进入**](https://github.com/kevinnate/Project/tree/master/Credit_default_risk_prediction)  
 - **Customer segmentation/基于销售记录的客户细分**
 >背景：[来自UCL ML Repository 的数据集](https://archive.ics.uci.edu/ml/datasets/Wholesale+customers)  
 >目的：基于批发市场公布的各商品的客户采购流水，更好地了解客户群体和需求，以及更好地服务供应链  
