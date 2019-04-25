@@ -16,7 +16,7 @@
 - **Customer segmentation/基于销售记录的客户细分**
 >背景：[来自UCL ML Repository 的数据集](https://archive.ics.uci.edu/ml/datasets/Wholesale+customers)  
 >目的：基于批发市场公布的各商品的客户采购流水，更好地了解客户群体和需求，以及更好地服务供应链  
->[**进入**](https://github.com/kevinnate/Project/blob/master/Customer%20Segmentation/Creating%20Customer%20Segments.ipynb)  
+>[**进入**](https://github.com/kevinnate/Project/tree/master/Customer%20Segmentation)  
 - **Consumption behavior/基于购买记录的销售行为分析**
 >背景：[来自CDnow公布的数据集](http://www.brucehardie.com/notes/026/)  
 >目的：对18个月的销售情况进行分析，提出改善建议  
