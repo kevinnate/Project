@@ -1,1 +1,11 @@
-
+![pic](https://github.com/kevinnate/Project/blob/master/customer-churn/png/%E5%B9%BB%E7%81%AF%E7%89%871.PNG)
+![pic](https://github.com/kevinnate/Project/blob/master/customer-churn/png/%E5%B9%BB%E7%81%AF%E7%89%872.PNG)
+![pic](https://github.com/kevinnate/Project/blob/master/customer-churn/png/%E5%B9%BB%E7%81%AF%E7%89%873.PNG)
+![pic](https://github.com/kevinnate/Project/blob/master/customer-churn/png/%E5%B9%BB%E7%81%AF%E7%89%874.PNG)
+![pic](https://github.com/kevinnate/Project/blob/master/customer-churn/png/%E5%B9%BB%E7%81%AF%E7%89%875.PNG)
+![pic](https://github.com/kevinnate/Project/blob/master/customer-churn/png/%E5%B9%BB%E7%81%AF%E7%89%876.PNG)
+![pic](https://github.com/kevinnate/Project/blob/master/customer-churn/png/%E5%B9%BB%E7%81%AF%E7%89%877.PNG)
+![pic](https://github.com/kevinnate/Project/blob/master/customer-churn/png/%E5%B9%BB%E7%81%AF%E7%89%878.PNG)
+![pic](https://github.com/kevinnate/Project/blob/master/customer-churn/png/%E5%B9%BB%E7%81%AF%E7%89%879.PNG)
+![pic](https://github.com/kevinnate/Project/blob/master/customer-churn/png/%E5%B9%BB%E7%81%AF%E7%89%8710.PNG)
+![pic](https://github.com/kevinnate/Project/blob/master/customer-churn/png/%E5%B9%BB%E7%81%AF%E7%89%8711.PNG)
