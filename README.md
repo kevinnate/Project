@@ -20,4 +20,11 @@
 - **Consumption behavior/基于购买记录的销售行为分析**
 >背景：[来自CDnow公布的数据集](http://www.brucehardie.com/notes/026/)  
 >目的：对18个月的销售情况进行分析，提出改善建议  
->[**进入***](https://github.com/kevinnate/Project/tree/master/customer)
+>[**进入**](https://github.com/kevinnate/Project/tree/master/customer)
+
+- **Customer-churn/电信用户流失预测**
+>背景：[来自bigml的数据集](https://bigml.com/dashboard/source/5cbc2f40eba31d2ac70033e1)  
+>目的：按照已有的用户数据（电信套餐、通话情况等）和标签（是否流失），建立模型并寻找影响流失的重要属性  
+>[**进入**](https://github.com/kevinnate/Project/tree/master/customer-churn)
+
+
