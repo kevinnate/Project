@@ -8,7 +8,9 @@
 
 
     CDNow是一个CD电商平台（现AmazonMusic），本项目数据集包括该平台18个月不同用户的消费流水（按日计算），目的是对不同会员用户的消费行为进行分析，并基于 RMF进行分类。
-    
+   
+![image](https://github.com/kevinnate/Project/blob/master/customer/scope.png)   
+   
 
 &nbsp;
 
