@@ -10,7 +10,7 @@
 > [**进入**](https://github.com/kevinnate/Project/tree/master/Airbnb%20New%20User%20Bookings)  
 
 - **Credit_default_risk_prediction/信贷风险预测**
-> 背景：[来自kaggle的数据集](https://www.kaggle.com/c/home-credit-default-risk)  
+> 背景：[来自kaggle的数据集(竞赛)](https://www.kaggle.com/c/home-credit-default-risk)  
 > 目的：按照客户贷款信息预测是否有违约风险（二分类）  
 > [**进入**](https://github.com/kevinnate/Project/tree/master/Credit_default_risk_prediction)  
 - **Customer segmentation/基于销售记录的客户细分**
