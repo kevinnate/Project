@@ -29,5 +29,5 @@
 
 - **HR_analysis/员工离职分析**
 >背景：[来自kaggle的数据集](https://github.com/kevinnate/Project/blob/master/HR_analysis/HR_comma_sep.csv)  
->目的：按照已有的数据（工资、绩效、工作满意度、参加项目数、工作时长、是否升职等）以及员工是否已经离职的对应记录，分析员工离职的关键因素
+>目的：按照已有的数据（工资、绩效、工作满意度、参加项目数、工作时长、是否升职等）以及员工是否已经离职的对应记录，分析员工离职的关键因素  
 >[**进入**](https://nbviewer.jupyter.org/github/kevinnate/Project/blob/master/HR_analysis/hunamresource.ipynb)
